@@ -2,7 +2,7 @@
 
 Minimal Python package created for Linear **TNG-5**.
 
-## Run locally
+## Run locally.
 
 From this directory (`hello_world/`):
 
